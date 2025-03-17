@@ -8,7 +8,7 @@ To set up the project, clone the repository and install the necessary dependenci
 
 1.  download the code in zip
 2.  delete `.gitignore` from downloaded zip
-3.  paste it inside your project and run the command below
+3. run the command below
 
 Add the following dependencies:
 
@@ -85,4 +85,6 @@ yarn ios
 
 ## Conclusion
 
-This architecture, inspired by Mubashir Ali Kalhoro, focuses on dynamic styling and robust state management to ensure a responsive, maintainable, and user-friendly React Native application. By leveraging modern libraries and best practices, it provides a solid foundation for building scalable mobile applications.
+Here’s the revised description reflecting your ownership of the architecture:  
+
+**"This architecture is designed to provide dynamic styling and robust state management, ensuring a responsive, maintainable, and user-friendly React Native application. By leveraging modern libraries and best practices, it establishes a solid foundation for building scalable mobile applications."**
